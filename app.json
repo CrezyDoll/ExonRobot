@@ -35,47 +35,47 @@
       "API_ID": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "12834603"
       },
       "API_HASH": {
          "description": "ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "84a5daf7ac334a70b3fbd180616a76c6"
       },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "6031729555"
       },
       "DEV_USERS": {
          "description": "ᴅᴇᴠs ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
-         "value": "5938660179"
+         "value": "5615344987"
       },
       "OWNER_USERNAME": {
          "description": "ʏᴏᴜʀ ᴛɢ ᴜsᴇʀɴᴀᴍᴇ",
          "required": true,
-         "value": "Abishnoi1M"
+         "value": "R_0NE_HU"
       },
       "LOG_GROUP_ID": {
          "description": "ᴇᴠᴇɴᴛ ʟᴏɢs ᴄʜᴀɴɴᴇʟ  ᴛᴏ ɴᴏᴛᴇ ᴅᴏᴡɴ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴏᴛ ʟᴇᴠᴇʟ ᴇᴠᴇɴᴛs, ᴇx: '-10023456'",
          "required": true,
-         "value": "-100"
+         "value": "-1001866566062"
       },
       "DATABASE_URL": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (sǫʟ :- elephantsql.com).",
          "required": false,
-         "value": ""
+         "value": "postgres://vjpblwfv:Pp0V6G8zIm9j5NwG-XL-H1VbPTD_9B5O@tiny.db.elephantsql.com/vjpblwfv"
       },
       "MONGO_DB_URI": {
          "description": "ʀᴇǫᴜɪʀᴇᴅ ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ ᴄᴏɴɴᴇᴄᴛɪᴏɴs (ᴍᴏɴɢᴏ).",
          "required": true,
-         "value": "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://vesen73240:avBU1zePuIy2aS7R@cluster0.7twofv8.mongodb.net/?retryWrites=true&w=majority"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "5983724559:AAEuHW1LQe3qWM7fL41jYhxFgR3eg3QNW2A"
       }
    }
 }
