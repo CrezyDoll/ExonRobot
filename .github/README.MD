@@ -10,7 +10,7 @@
 
 ## sᴛᴀᴛs
 
-[![ɢɪᴛʜᴜʙ ғᴏʀᴋs](https://img.shields.io/github/forks/Abishnoi69/ExonRobot.svg?style=social&label=ғᴏʀᴋs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/network/) [![ɢɪᴛʜᴜʙ sᴛᴀʀs](https://img.shields.io/github/stars/Abishnoi69/ExonRobot.svg?style=social&label=sᴛᴀʀs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/stargazers/) [![ɢɪᴛʜᴜʙ ᴡᴀᴛᴄʜᴇʀs](https://img.shields.io/github/watchers/Abishnoi69/ExonRobot.svg?style=social&label=ᴡᴀᴛᴄʜ&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/watchers/)
+[![ɢɪᴛʜᴜʙ ғᴏʀᴋs](https://github.com/sirsa44/ExonRobot.svg?style=social&label=ғᴏʀᴋs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/network/) [![ɢɪᴛʜᴜʙ sᴛᴀʀs](https://img.shields.io/github/stars/Abishnoi69/ExonRobot.svg?style=social&label=sᴛᴀʀs&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/stargazers/) [![ɢɪᴛʜᴜʙ ᴡᴀᴛᴄʜᴇʀs](https://img.shields.io/github/watchers/Abishnoi69/ExonRobot.svg?style=social&label=ᴡᴀᴛᴄʜ&maxAge=25920000)](https://github.com/Abishnoi69/ExonRobot/watchers/)
 [![ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ](https://img.shields.io/badge/ᴍᴀɪɴᴛᴀɪɴᴇᴅ%3F-yes-red.svg)](https://github.com/Abishnoi69/ExonRobot/graphs/commit-activity)
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Exon_Robot)**_
@@ -30,7 +30,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴇxᴏɴ ✘ ʀᴏ
 - <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
 </h3></summary>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/sirsa44/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 </details>
