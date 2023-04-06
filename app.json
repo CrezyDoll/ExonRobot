@@ -28,7 +28,7 @@
          "options": {
             "version": "12"
          },
-         "plan": "heroku-postgresql"
+         "plan": "eco"
       }
    ],   
    "env": {
