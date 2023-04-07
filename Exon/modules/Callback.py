@@ -213,5 +213,5 @@ Music_callback_handler = CallbackQueryHandler(
 
 
 dispatcher.add_handler(Music_callback_handler)
-
+dispatcher.add_handler(about_callback_handler)
 
