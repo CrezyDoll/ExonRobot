@@ -203,9 +203,7 @@ c ꜱᴛᴀɴᴅꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
 
 
 
-about_callback_handler = CallbackQueryHandler(
-    ABG_about_callback, pattern=r"ABG_",
-)
+
 
 Music_callback_handler = CallbackQueryHandler(
     Music_about_callback, pattern=r"Music_"
