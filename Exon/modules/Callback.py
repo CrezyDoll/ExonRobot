@@ -202,7 +202,9 @@ c ꜱᴛᴀɴᴅꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
 
 
 
-
+about_callback_handler = CallbackQueryHandler(
+    ABG_about_callback, pattern=r"ABG_", run_async=True
+)
 
 
 Music_callback_handler = CallbackQueryHandler(
